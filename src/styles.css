@@ -1,0 +1,9 @@
+html,
+body {
+  margin: 0;
+}
+
+.App {
+  font-family: "Trebuchet MS", sans-serif;
+  text-align: center;
+}
