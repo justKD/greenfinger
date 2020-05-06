@@ -1,2 +1,3 @@
 # greenfinger
-Created with CodeSandbox
+
+WIP - plant/garden journaling web application. ReactJS, MaterialUI, RxJS, AWS S3.
